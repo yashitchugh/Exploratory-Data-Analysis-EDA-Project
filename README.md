@@ -61,8 +61,7 @@ eda\_project/
 
 1. Clone the repository:
    ```bash
-   git clone[https://github.com/yashitchugh/Exploratory-Data-Analysis-EDA-Project]
-   cd eda_project
+   https://github.com/yashitchugh/Exploratory-Data-Analysis-EDA-Project
 
 
 2. Install dependencies:
