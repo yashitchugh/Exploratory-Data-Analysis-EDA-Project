@@ -41,19 +41,7 @@ This repository contains a structured approach to performing **Exploratory Data 
 
 ---
 
-## 📂 File Structure
-
-```
-
-eda\_project/
-│
-├── data/                # Input data files
-├── notebooks/           # Jupyter notebooks for EDA
-├── outputs/             # Saved plots and reports
-├── README.md            # Project overview and workflow
-└── requirements.txt     # Dependencies for the project
-
-````
+ 
 
 ---
 
